@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StarWindTW">
+    <output-path>D:/testserver/plugins</output-path>
+    <root id="archive" name="StarWindTW.jar">
+      <element id="module-output" name="Plugin" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

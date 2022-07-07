@@ -1,0 +1,26 @@
+name: GGWTW
+main: com.starwindtw.plugin.Main
+version: 1.0
+description: 嘎啦嘎拉
+author: StarWindTW
+api-version: 1.18
+commands:
+  web:
+    description: 連結
+    usage: /web
+  food:
+    description: 食物
+    usage: /food
+  menu:
+    description: 選單
+  guild:
+    description: 公會
+    aliases: g
+    usage: /<command> [menu|create]
+  online:
+    description: 在線玩家
+  rename:
+    description: 更改顯示名稱
+  profession:
+    description: 職業選擇
+    usage: /<command> [add|set|confirm]
