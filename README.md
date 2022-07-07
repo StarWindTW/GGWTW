@@ -1,2 +1,3 @@
 # GGWTW
-Downloads Downloads Downloads Downloads Downloads star github star
+
+1. Minecraft 伺服器插件
